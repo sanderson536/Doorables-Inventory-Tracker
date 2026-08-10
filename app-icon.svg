@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Steve's Doorable Inventory Tracker icon">
-  <rect width="512" height="512" rx="96" fill="#0b6f75"/>
-  <path d="M102 362V168l154-86 154 86v194c0 38-30 68-68 68H170c-38 0-68-30-68-68Z" fill="#fff7ea"/>
-  <path d="M208 430V302c0-27 21-48 48-48s48 21 48 48v128" fill="#f6b448"/>
-  <circle cx="180" cy="232" r="28" fill="#0b6f75"/>
-  <circle cx="332" cy="232" r="28" fill="#0b6f75"/>
-  <path d="M179 154h154" stroke="#c94f38" stroke-width="28" stroke-linecap="round"/>
-  <path d="M194 360h124" stroke="#0b6f75" stroke-width="22" stroke-linecap="round"/>
-</svg>
