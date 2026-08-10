@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Doorables inventory icon">
+  <rect width="64" height="64" rx="12" fill="#0b6f75"/>
+  <path d="M15 45V20.5L32 11l17 9.5V45a5 5 0 0 1-5 5H20a5 5 0 0 1-5-5Z" fill="#fff7ea"/>
+  <path d="M25 50V34a7 7 0 0 1 14 0v16" fill="#f6b448"/>
+  <circle cx="22" cy="29" r="3.5" fill="#0b6f75"/>
+  <circle cx="42" cy="29" r="3.5" fill="#0b6f75"/>
+</svg>
