@@ -1,4 +1,4 @@
-const CACHE_NAME = 'steves-doorable-shell-v1-rc1-gh-pages'
+const CACHE_NAME = 'steves-doorable-shell-rc1-hotfix1'
 const SCOPE_URL = self.registration.scope
 const SCOPE_PATH = new URL(SCOPE_URL).pathname
 const APP_SHELL = [
